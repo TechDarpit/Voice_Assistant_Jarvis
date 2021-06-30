@@ -13,7 +13,7 @@ It is a simple voice assistant for desktops, like Jarvis. I didn't add GUI it's 
 
 <pre>
 
-"C:\ProgramFiles\Python39\python.exe" C:/Users/Admin/PycharmProjects/Voice_Assistent/Jarvis.py
+"C:\ProgramFiles\Python39\python.exe" C:/Users/Admin/PycharmProjects/Jarvis.py
 Listening...
 recognizing...
 wake up Jarvis
